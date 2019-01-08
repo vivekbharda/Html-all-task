@@ -1,0 +1,156 @@
+
+.middle-part{
+	background-color: #6c757d;
+	color: white;
+	font-family: opensans;
+	margin-top: 10px;
+}
+.last-part-font-color{
+	font-color:red;
+}
+.footer-part{
+	border: 5px #6c757d;
+}
+.business-tagline{
+	font-size: 42px;
+	font-family: opensans;
+}
+.jumbotron{
+	padding-bottom: 120px;
+}
+.jumbotron-heading{
+	text-align: center;
+}
+.listgroup-heading{
+	font-size: 30px;
+	font-family: roboto slab;
+}
+.panel-bg-color{
+	background-color: #343a40;
+}
+.font-color-footer{
+	color: white;
+	font-family: opensans;	
+}
+.footer-width{
+	/*padding: 0;*/
+	background-color: #343a40;
+	max-width: 100%;
+	/*height: 15%;*/
+	color: white;
+	text-align: center;
+
+}
+.footer-width h6{
+	padding: 20px 10px;
+	margin: 0 !important;
+}
+.button-color{
+	background-color: #417bfe;
+}
+.container-fluid{
+	padding: 0;
+}
+
+.row.no-margin{
+	margin: 0 !important;
+}
+
+
+.fieldset-border{
+	border: 2px solid black;
+	padding: 10px;
+	margin-top: 10px
+}
+.padding-add-details{
+margin-top: 30px;			
+}
+.logo-size{
+	width: 130px;
+	height: 100px;
+	padding-bottom: 10px;
+}
+.header-size-font{
+	font-family: roboto slab;
+	font-size: 78px;
+	color: black;
+	-webkit-text-stroke: 2px white;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+.padding-top-10px{
+	padding-top: 20px;
+}
+.dashed-border-left{
+	border-left: 2px dashed;
+	background-color: #FFD700;
+}
+	.border-add-details{
+		border: 2px solid black dashed;
+	}
+.col-container {
+  height: auto;
+/*  background-color: #8B7D7B;*/
+}
+.back-color-notice{
+	background-color: 
+}
+.email-1st{
+	margin-top: 10px;
+}
+.space-point{
+	margin-top: 15px;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+@media screen and (min-width: 992px){
+#id-1{
+	display: none;
+}
+}
+@media screen and (max-width: 992px){
+	#id-2{
+		display:none;
+	}
+}
+	
+
+

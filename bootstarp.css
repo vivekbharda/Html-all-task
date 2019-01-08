@@ -154,3 +154,14 @@ margin-top: 30px;
 	
 
 
+.navbar-inverse{
+	background-color: lightgrey;
+	color: black !important;
+	border: 0px;
+}
+
+.navbar-inverse .navbar-nav>.active>a{
+	background-color: white;
+	color: orange;
+	font-weight: 900;
+}
